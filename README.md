@@ -1,4 +1,4 @@
-<img src="https://github.com/Rishabh062/Rishabh062/blob/master/assest/GITHUB-BANNER.png"/>
+<img src="https://github.com/OrangePomeranian/OrangePomeranian/blob/main/banner.png"/>
 
 <hr/>
 <p align="center">
@@ -16,12 +16,7 @@
 
 <p align="center">I’m great fan of foreign languages (currently working on German 🇩🇪 and Mandarin 🇨🇳 skills), cuisines 🥟 and cultures. I love reading literature in their native language 📖, listen to English and German music (Linkin Park and Rammstein fan here 🎸) - but still open to new foreign experiences 🤩.</p>
 
-<hr/>
-<p align="center">
-  <b><i>Let's connect! Find me on the Linkedin!</i></b> 
-  
-[<img src="https://img.icons8.com/clouds/100/000000/link.png"/>][Portfolio] 
-<br />
+
   
 <hr/>
 <p align="center">
