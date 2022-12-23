@@ -1,4 +1,10 @@
-<p align="center">Hi, I'm Daria!<br>I am a passionate student of Bioinformatics with 1 year experience in Data Analysis and Data Science.</p>
+<img src="https://github.com/Rishabh062/Rishabh062/blob/master/assest/GITHUB-BANNER.png"/>
+
+<hr/>
+<p align="center">
+
+
+<p align="center">I am a passionate student of Bioinformatics with 1 year experience in Data Analysis and Data Science.</p>
 
 ###
 
@@ -10,33 +16,35 @@
 
 <p align="center">I’m great fan of foreign languages (currently working on German 🇩🇪 and Mandarin 🇨🇳 skills), cuisines 🥟 and cultures. I love reading literature in their native language 📖, listen to English and German music (Linkin Park and Rammstein fan here 🎸) - but still open to new foreign experiences 🤩.</p>
 
+<hr/>
+<p align="center">
+  <b><i>Let's connect! Find me on the Linkedin!</i></b> 
+  
+[<img src="https://img.icons8.com/clouds/100/000000/link.png"/>][Portfolio] 
+<br />
+  
+<hr/>
+<p align="center">
+  
+ ### **Tools and Technology I Know.**
+<br>
+  
+<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg"></code>
+<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
+<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"></code>
+<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
+<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></code>
+<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></code>
+  
+<br/>
+<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"></code>
+<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg"></code>
+<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+<hr/>
+
+
 ###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" width="52" alt="julia logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="52" alt="r logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" width="52" alt="atom logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-</div>
+[Gmail]: https://www.gmail.com/
+[Portfolio]: https://www.linkedin.com/in/dariaplewa/
 
