@@ -28,7 +28,7 @@
 
 <h2 align="center">Key Skills</h2>
 <ul>
-  <li><strong>Programming Languages & Tools:</strong> Python, R, SQL, Linux, Command Line, Git, Julia, Docker, SPSS</li>
+  <li><strong>Programming Languages & Tools:</strong> Python, R, SQL, Linux, Command Line, Git, Julia, Docker, Snakemake</li>
   <li><strong>Bioinformatics:</strong> Proficient in NGS data analysis, biostatistics, and familiar with essential databases such as NCBI and GenBank</li>
   <li><strong>Soft Skills:</strong> Teamwork, effective communication, adaptability</li>
 </ul>
