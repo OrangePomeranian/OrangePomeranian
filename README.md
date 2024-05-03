@@ -4,7 +4,7 @@
 <p align="center">
 
 
-<p align="center">I am a passionate student of Bioinformatics with 1 year experience in Data Analysis and Data Science.</p>
+<p align="center">Hi, I'm a passionate Bioinformatics student with a keen interest in Data Analysis, Data Science, and Bioinformatics. With a year of experience under my belt, I'm actively seeking opportunities to bring innovative solutions to forward-thinking projects in a dynamic company environment.</p>
 
 ###
 
