@@ -21,22 +21,6 @@
 <hr/>
 <p align="center">
   
- ### **Tools and Technology I Know.**
-<br>
-  
-<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg"></code>
-<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
-<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"></code>
-<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
-<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></code>
-<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></code>
-  
-<br/>
-<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"></code>
-<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg"></code>
-<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-<hr/>
 
 
 ###
