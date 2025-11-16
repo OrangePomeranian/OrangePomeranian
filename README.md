@@ -43,15 +43,6 @@
   <li><strong>Polish:</strong> Native</li>
 </ul>
 
-<h2 align="center">Current Projects</h2>
-<p align="center">Below is a detailed look at some of the projects I've been involved in, highlighting my skills in bioinformatics and data analysis. Please visit the Projects section on GitHub to explore these works further.</p>
-<ul>
-  <li>Analysis of Genetic Markers for Canine Diseases: Using tools like Plink and SNPassoc to identify SNP markers.</li>
-  <li>Automated Genomic Analysis Pipeline: Employed Snakemake for streamlined processing of genomic data.</li>
-  <li>CHIP-seq for Gene Target Identification: Analyzed gene interactions to understand cellular processes.</li>
-</ul>
-
-
 <hr/>
 <p align="center">
   
