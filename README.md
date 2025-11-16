@@ -4,9 +4,9 @@
 <p align="center">
 
 
-<p align="center">Hi, I'm a Data Engineer with a strong interest in bioinformatics. I hold a Master’s degree in Bioinformatics and combine technical engineering expertise with a solid scientific background. In my current role, I design, implement, and optimize complex database models to support business analytics and data-driven decision-making. I build scalable data pipelines and maintain efficient data flows using Databricks, GitLab, SQL, and cloud-based technologies.
+<p align="center">Hi, I'm a Data Engineer with a strong interest in bioinformatics. I hold a Master’s degree in Bioinformatics and combine technical engineering expertise with a solid scientific background. In my current role, I design, implement, and optimize complex database models to support business analytics and data-driven decision-making. I build scalable data pipelines and maintain efficient data flows using Databricks, GitLab, SQL, and cloud-based technologies. </p>
   
-I remain closely connected to bioinformatics and NGS analysis, and I enjoy bringing together data engineering and biological insight to create meaningful, production-ready solutions.</p>
+<p align="center">I remain closely connected to bioinformatics and NGS analysis, and I enjoy bringing together data engineering and biological insight to create meaningful, production-ready solutions.</p>
 
 ###
 
