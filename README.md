@@ -30,9 +30,11 @@
 
 <h2 align="center">Key Skills</h2>
 <ul>
-  <li><strong>Programming Languages & Tools:</strong> Python, R, SQL, Linux, Command Line, Git, Julia, Docker, Snakemake</li>
-  <li><strong>Bioinformatics:</strong> Proficient in NGS data analysis, biostatistics, and familiar with essential databases such as NCBI and GenBank</li>
-  <li><strong>Soft Skills:</strong> Teamwork, effective communication, adaptability</li>
+<li><strong>Programming Languages & Tools:</strong> Python, R, SQL, Linux, Command Line, Git, GitLab, Docker, Snakemake, Nextflow, Databricks</li>
+<li><strong>Data Engineering:</strong> Building scalable data pipelines, designing complex database models, ETL workflows, cloud-based data processing, version control and CI/CD with GitLab</li>
+<li><strong>Bioinformatics:</strong> Experience in NGS data analysis, RNA-seq pipelines, biostatistics, and working with biological databases such as NCBI and GenBank; familiar with the Galaxy platform</li>
+<li><strong>Soft Skills:</strong> Strong teamwork, clear communication, adaptability, and problem-solving in cross-functional environments</li>
+
 </ul>
 
 <h2 align="center">Languages</h2>
