@@ -4,7 +4,9 @@
 <p align="center">
 
 
-<p align="center">Hi, I'm a passionate Bioinformatics student with a keen interest in Data Analysis, Data Science, and Bioinformatics. With a year of experience under my belt, I'm actively seeking opportunities to bring innovative solutions to forward-thinking projects in a dynamic company environment.</p>
+<p align="center">Hi, I'm a Data Engineer with a strong interest in bioinformatics. I hold a Master’s degree in Bioinformatics and combine technical engineering expertise with a solid scientific background. In my current role, I design, implement, and optimize complex database models to support business analytics and data-driven decision-making. I build scalable data pipelines and maintain efficient data flows using Databricks, GitLab, SQL, and cloud-based technologies.
+  
+I remain closely connected to bioinformatics and NGS analysis, and I enjoy bringing together data engineering and biological insight to create meaningful, production-ready solutions.</p>
 
 ###
 
